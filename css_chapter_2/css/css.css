@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+/* "#" show the ID*/
+#headingone{
+        font-family: italian;
+}
+#headingtwo{
+        font-family: Verdana;
+}
+#headingthree{
+        font-family: sans-serif;
+}
+#headingfour{
+    font-family: Georgia;
+}
+#headingfive{
+    font-family: Helvetica;
+}

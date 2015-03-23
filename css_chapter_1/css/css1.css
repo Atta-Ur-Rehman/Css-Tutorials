@@ -1,0 +1,12 @@
+h1{
+    font-family: Arial;
+    font-size: 40px;
+    color: #5bff6a;
+}
+/* "." show the class */
+.three{
+    color: yellow;
+}
+.two{
+    color: blue;
+}
